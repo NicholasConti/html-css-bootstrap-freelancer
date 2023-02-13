@@ -83,3 +83,10 @@ textarea{
     border-left: none;
     border-right: none;
 }
+
+.ms-circle{
+    border-radius: 50%;
+    border: 1px solid white;
+    padding: 10px;
+    flex-basis: 46px;
+}
