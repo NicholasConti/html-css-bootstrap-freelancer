@@ -6,7 +6,6 @@ header{
 .square-user{
     height: 260px;
     width: 230px;
-    background-color: black;
 }
 
 section:nth-child(odd){
