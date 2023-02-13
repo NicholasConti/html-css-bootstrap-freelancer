@@ -28,3 +28,29 @@ footer{
 .footer-bottom{
     background-color: #2c3e50;
 }
+
+.ms-greca{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.ms-greca-line{
+    width: 70px;
+    height: 4px;
+    background-color: white;
+    margin: 0 10px;
+}
+
+@media screen  and (min-width: 992px){
+    .ms-greca-line{
+        width: 140px;
+        margin: 0 25px;
+    }
+}
+@media screen  and (min-width: 1200px){
+    .ms-greca-line{
+        width: 170px;
+        margin: 0 30px;
+    }
+}
